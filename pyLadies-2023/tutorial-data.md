@@ -1,8 +1,6 @@
----
-images: 'https://cdn.pixabay.com/photo/2020/05/20/03/50/gears-5193383_1280.png'
-title: Análise de dados e Políticas Públicas
-description: ' #python #comunidade #CienciadeDados'
----
+
+## Análise de dados e Políticas Públicas
+
 
 #### Introdução
 
